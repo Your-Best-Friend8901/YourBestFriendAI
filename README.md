@@ -25,3 +25,5 @@ This idea is designed to push the boundaries of how AI can assist and interact w
 - **Name:** Your Best Friend
 - **Age:** 16 years
 - **Date of Concept Release:** April 6, 2025
+- ## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
